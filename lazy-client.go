@@ -18,7 +18,7 @@ const (
 	CONN_HOST    = "localhost"
 	CONN_PORT    = "8888"
 	CONN_TYPE    = "tcp"
-	MAX_MSG_SIZE = 512
+	MAX_MSG_SIZE = 524
 )
 
 /*
